@@ -34,6 +34,13 @@ for file in files:
             long_acc += acc
 
     name = '.'.join(file.split('.')[:-1])
-    output.append(name+'\t'+str(round(100*(easy_acc+hard_acc)/len(pred_data), 1))+'\t'+str(round(100*easy_acc/easy, 1))+'\t'+str(round(100*hard_acc/hard, 1))+'\t'+str(round(100*short_acc/short, 1))+'\t'+str(round(100*medium_acc/medium, 1))+'\t'+str(round(100*long_acc/long, 1)))
 
+    overall_acc = round(100*(easy_acc+hard_acc)/len(pred_data), 1) if len(pred_data) > 0 else 0
+    easy_pct = round(100*easy_acc/easy, 1) if easy > 0 else 0
+    hard_pct = round(100*hard_acc/hard, 1) if hard > 0 else 0
+    short_pct = round(100*short_acc/short, 1) if short > 0 else 0
+    medium_pct = round(100*medium_acc/medium, 1) if medium > 0 else 0
+    long_pct = round(100*long_acc/long, 1) if long > 0 else 0
+
+    output.append(f"{name}\t{overall_acc}\t{easy_pct}\t{hard_pct}\t{short_pct}\t{medium_pct}\t{long_pct}")
 open('result.txt', 'w', encoding='utf-8').write('\n'.join(output))
