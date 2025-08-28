@@ -1,0 +1,200 @@
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019年10月1日，中国", "answers": ["段落27"], "all_classes": null, "length": 6478}
+{"pred": "段落2\n\n请在所给的文本中找到并替换指定的词语。\n文本：《德意志意识形态》是马克思恩格斯的重要哲学", "answers": ["段落2"], "all_classes": null, "length": 7368}
+{"pred": "段落1\n\n段落1：天啊————看完之后真的不停感叹太帅了太帅了！！我现在就是天上的飞机，太空里的飞船", "answers": ["段落15"], "all_classes": null, "length": 6378}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的文本。\n指定文本：\"2012年，我院的爱国卫生工作", "answers": ["段落10"], "all_classes": null, "length": 7417}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的单词。\n文本：在平分时，双方需要交换发球权，并且", "answers": ["段落1"], "all_classes": null, "length": 6654}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2005年，Romy Madley Croft", "answers": ["段落5"], "all_classes": null, "length": 7127}
+{"pred": "段落1\n\n请在所给文档中挑选以‘2019年1月1日，中国（）正式成立，标志着中国在", "answers": ["段落25"], "all_classes": null, "length": 6601}
+{"pred": "段落1\n\n请将以下中文翻译成英文：在医院的太平间里，他们把团队首创的ASC冷冻法首次用在了人类", "answers": ["段落5"], "all_classes": null, "length": 5469}
+{"pred": "段落1\n\n请在以下文本中找到所有包含“党章”一词的段落，并将它们的编号输出。\n党章是党的", "answers": ["段落4"], "all_classes": null, "length": 6385}
+{"pred": "段落1\n\n请在以下文本中找到所有日期，并按年份升序排列。\n2018年10月19日，", "answers": ["段落29"], "all_classes": null, "length": 5671}
+{"pred": "段落2\n\n请将以下文本进行分类：《红楼梦》是中国古典四大名著之一，由清代作家曹雪芹创作，后由高", "answers": ["段落5"], "all_classes": null, "length": 5781}
+{"pred": "段落1\n\n请将以下文本进行分类：《三体》是刘慈欣的科幻小说，讲述了人类与外星文明的接触和", "answers": ["段落10"], "all_classes": null, "length": 6619}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： 　　段落", "answers": ["段落29"], "all_classes": null, "length": 6856}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019年3月14日，为了", "answers": ["段落28"], "all_classes": null, "length": 6964}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： iOS操作系统目前为全球", "answers": ["段落4"], "all_classes": null, "length": 7421}
+{"pred": "段落2\n\n请将以下中文翻译成英文：《我想当巨星》小说推荐：联盟之魔王系统、伊塔之柱、天行", "answers": ["段落17"], "all_classes": null, "length": 5502}
+{"pred": "段落1\n\n请在下面的文本中找到所有以“在日复一日的学习、工作或生活中，说到名言，大家肯定都不陌生", "answers": ["段落8"], "all_classes": null, "length": 5950}
+{"pred": "段落1\n\n请在所给文本中找到并替换所有的“”为“”。\n段落1：（食厌想的语义）", "answers": ["段落12"], "all_classes": null, "length": 6854}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《四库全书》是在乾隆皇帝的主持下，", "answers": ["段落4"], "all_classes": null, "length": 6695}
+{"pred": "段落1\n\n请在所给文本中找到并替换所有的“中国”为“China”。\n\n请在所给文本中找到并替换所有的“", "answers": ["段落5"], "all_classes": null, "length": 5778}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：1949年11月下旬，中央公安部、社会", "answers": ["段落23"], "all_classes": null, "length": 7125}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2004年12月，教育部召开了", "answers": ["段落17"], "all_classes": null, "length": 6641}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n指定文本：2003年以专辑《乐行者》", "answers": ["段落21"], "all_classes": null, "length": 5559}
+{"pred": "段落1\n\n请在以下文本中找到所有包含“2021年12月31日”的句子，并将它们按出现的", "answers": ["段落26"], "all_classes": null, "length": 7432}
+{"pred": "段落1\n\n请将以下中文翻译成英文：2019年10月1日，习近平主席在庆祝中华人民共和国成立70", "answers": ["段落13"], "all_classes": null, "length": 6495}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2012年12月25日，", "answers": ["段落20"], "all_classes": null, "length": 5806}
+{"pred": "段落1\n\n请将以下文本进行分类：《红楼梦》是中国古典四大名著之一，由清代作家曹雪芹创作，后由高", "answers": ["段落28"], "all_classes": null, "length": 6802}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：1950年，张鸣（惊声）、张", "answers": ["段落29"], "all_classes": null, "length": 8167}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在2018年，中国民航将进入“", "answers": ["段落8"], "all_classes": null, "length": 5655}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n文本：《闪乱神乐》系列是由Marvelous Entertainment（现", "answers": ["段落14"], "all_classes": null, "length": 5386}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：人人都有信仰。人活着便离不开信仰。当然，家强这里", "answers": ["段落3"], "all_classes": null, "length": 8454}
+{"pred": "段落2\n\n请在所给的文本中找到并替换指定的词语。\n文本：《中国精神分裂症防治指南（第二版）》", "answers": ["段落22"], "all_classes": null, "length": 6672}
+{"pred": "段落1\n\n请输出上述文档中倒数第12段内容\n\n段落12：根据第23/2017号", "answers": ["段落12"], "all_classes": null, "length": 8963}
+{"pred": "段落1\n\n请将以下文本按照时间顺序进行排序，并用逗号分隔：1983年，中华人民共和国中央军事委员会成立", "answers": ["段落1"], "all_classes": null, "length": 6761}
+{"pred": "段落1\n\n请在所给文档中挑选以‘　　2019年1月1日，中国证监会发布《关于修改〈", "answers": ["段落1"], "all_classes": null, "length": 6948}
+{"pred": "段落2\n\n请将以下中文翻译成英文：《文化纵横》：此次疫情正在从公共卫生危机演化为全面的经济与社会危机，", "answers": ["段落30"], "all_classes": null, "length": 5712}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019年10月1日，中国", "answers": ["段落30"], "all_classes": null, "length": 7477}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：段落1：长江中游水文水资源勘测局", "answers": ["段落14"], "all_classes": null, "length": 7344}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： 用途：用于一个", "answers": ["段落13"], "all_classes": null, "length": 6689}
+{"pred": "段落1\n\n请在所给文档中挑选以‘2003年3月11日，来自意大利、芬兰等国的1", "answers": ["段落18"], "all_classes": null, "length": 7266}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的词语。\n文本：《新青年》是中国文化史上一本具有里程碑意义的", "answers": ["段落23"], "all_classes": null, "length": 7715}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： 提示：您可以写", "answers": ["段落11"], "all_classes": null, "length": 8431}
+{"pred": "段落1\n\n请将Wikipedia:特色条目候选和Wikipedia:特色列表候选中已符合入选条件的条目的首段内容和", "answers": ["段落1"], "all_classes": null, "length": 5624}
+{"pred": "段落1\n\n请在以下文本中找到所有包含特定关键词的句子，并将它们按出现顺序排列。\n文本：在2019年", "answers": ["段落3"], "all_classes": null, "length": 5859}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《搜索》剧照（图片来源豆瓣） 图片来源豆瓣", "answers": ["段落7"], "all_classes": null, "length": 5824}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：1949年9月底，新疆和平解放后，", "answers": ["段落11"], "all_classes": null, "length": 7037}
+{"pred": "段落1\n\n请将以下中文翻译成英文：2013 郭正晓 Zheng-Xiao Guo，英国籍，出生于1", "answers": ["段落20"], "all_classes": null, "length": 6363}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019戏曲百戏(昆山)盛典2", "answers": ["段落2"], "all_classes": null, "length": 6295}
+{"pred": "段落1\n\n请在以下文本中找到所有包含特定关键词的句子，并将它们按出现顺序排列。\n文本：在2019年", "answers": ["段落21"], "all_classes": null, "length": 5326}
+{"pred": "段落2\n\n请将以下文本进行分类：《论语》中“君子”一词的含义是什么？\n\n《论语》中“君子", "answers": ["段落2"], "all_classes": null, "length": 6008}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的词语。\n文本：在《红楼梦》中，贾宝玉和林黛玉", "answers": ["段落9"], "all_classes": null, "length": 6666}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n指定的词语是：\"新生家电品牌的发展状况\"，替换为", "answers": ["段落2"], "all_classes": null, "length": 7984}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019年12月10日，", "answers": ["段落25"], "all_classes": null, "length": 6109}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在2007年10月中青基业", "answers": ["段落29"], "all_classes": null, "length": 7521}
+{"pred": "段落1\n\n请将以下中文翻译成英文：1948-1972年，西欧中国学家们组织了每年一度", "answers": ["段落29"], "all_classes": null, "length": 7329}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2016年最大的世界级乌龙事件，恐怕", "answers": ["段落2"], "all_classes": null, "length": 5949}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：[0417a16] “若菩萨摩", "answers": ["段落19"], "all_classes": null, "length": 6675}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： 2011", "answers": ["段落7"], "all_classes": null, "length": 6280}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在取名之前，应该先对目前的市场情况", "answers": ["段落26"], "all_classes": null, "length": 6517}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的单词。\n文本：在《红楼梦》中，贾宝玉和林黛玉的爱情", "answers": ["段落13"], "all_classes": null, "length": 6168}
+{"pred": "段落1\n\n请将以下文本进行分类：《红楼梦》是中国古典四大名著之一，由清代作家曹雪芹创作，后由高", "answers": ["段落1"], "all_classes": null, "length": 7817}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在2019年，中国在世界50", "answers": ["段落30"], "all_classes": null, "length": 6344}
+{"pred": "段落1\n\n请将以下中文翻译成英文：\"我等婆罗门经籍有是语：有二人出世甚为难遇", "answers": ["段落1"], "all_classes": null, "length": 8190}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：1996年中共欲藉导弹试射演习影响", "answers": ["段落7"], "all_classes": null, "length": 7055}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2018年11月1日，螺", "answers": ["段落16"], "all_classes": null, "length": 7102}
+{"pred": "段落1\n\n请在所给文本中找到特定段落的起始位置。\n文本：1.生产面包、糕点、饼干的最主要", "answers": ["段落12"], "all_classes": null, "length": 7959}
+{"pred": "段落1\n\n请在以下文本中找到所有包含“经济”一词的句子，并将它们按出现的顺序排列。\n经济在笔者国", "answers": ["段落9"], "all_classes": null, "length": 5197}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号: 段落内容\n文本", "answers": ["段落10"], "all_classes": null, "length": 5910}
+{"pred": "段落1\n\n请在原文中找到并提取以下信息：段落1：湘潭县不动产登记中心挂牌成立并颁发首证 湘", "answers": ["段落7"], "all_classes": null, "length": 7163}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：1993年10月在湖北省荆门", "answers": ["段落11"], "all_classes": null, "length": 7112}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2016年12月10日，", "answers": ["段落25"], "all_classes": null, "length": 7202}
+{"pred": "段落1\n\n请在上文中找到所有“2010年”这个关键词，并提取到一个新的段落中。\n\n2010年", "answers": ["段落28"], "all_classes": null, "length": 7340}
+{"pred": "段落1\n\n请将以下中文翻译成英文：《论语》是一本关于政治哲学的书。主要论述三方面的问题：1、", "answers": ["段落5"], "all_classes": null, "length": 5796}
+{"pred": "段落1\n\n请将以下文本进行分类：《开天辟地》是首部全景式展现第一次国内革命战争壮丽画卷的电视剧", "answers": ["段落27"], "all_classes": null, "length": 6902}
+{"pred": "段落2\n\n请在所给文本中找到并替换所有的“”为“”。\n请在所给文本中找到并替换所有的“”", "answers": ["段落18"], "all_classes": null, "length": 6983}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在《搜记》中，我们看到，香港的", "answers": ["段落22"], "all_classes": null, "length": 6486}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号：段落内容\n文本：2", "answers": ["段落26"], "all_classes": null, "length": 5792}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号：段落内容\n文本：1", "answers": ["段落13"], "all_classes": null, "length": 6572}
+{"pred": "段落1\n\n请在所给文本中找到并替换所有的“”为“”。\n段落1：相比干净整洁、中世纪气息厚重", "answers": ["段落23"], "all_classes": null, "length": 6518}
+{"pred": "段落1\n\n请将以下文本进行分类：《红楼梦》、《西游记》、《三国演义》、《水浒传》", "answers": ["段落8"], "all_classes": null, "length": 6208}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n原始文本：《红楼梦》的考证是不容易做的，一来因为", "answers": ["段落9"], "all_classes": null, "length": 6672}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n文本：中国共产党这个中国近代以来最伟大的创业团队，是1", "answers": ["段落18"], "all_classes": null, "length": 6248}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的词语。\n文本：在军队、电力、教育、医疗、金融、制造", "answers": ["段落12"], "all_classes": null, "length": 7147}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的词语。\n文本：在取名之前，应该先对目前的市场情况", "answers": ["段落18"], "all_classes": null, "length": 6121}
+{"pred": "段落1\n\n请在所给文本中找到并替换所有的“中国”为“中华人民共和国”。\n\n文本：110.5.7 �", "answers": ["段落1"], "all_classes": null, "length": 5941}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的单词。\n文本：在广义相对论里，重力波是时空的", "answers": ["段落11"], "all_classes": null, "length": 6963}
+{"pred": "段落1\n\n段落1： 1 现代世界的家庭团体，比任何其他的制度，都更受到社会和文化急速而深刻", "answers": ["段落5"], "all_classes": null, "length": 6187}
+{"pred": "段落1\n\n请在以下文本中找到所有包含特定关键词的句子，并将它们按出现顺序排列。\n文本：在2019年", "answers": ["段落22"], "all_classes": null, "length": 5462}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号: 段落内容\n文本", "answers": ["段落5"], "all_classes": null, "length": 7265}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：2008-11-13 AppleDaily8", "answers": ["段落13"], "all_classes": null, "length": 6063}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n指定文本：\"段落1：卖方想脱手买方", "answers": ["段落13"], "all_classes": null, "length": 6907}
+{"pred": "段落1\n\n请将以下中文翻译成英文：在大家热烈的掌声中，由威克传媒董事长肖凯先生代表威克传媒敲", "answers": ["段落11"], "all_classes": null, "length": 6376}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：2004年以歌手身份出道，凭借1辑", "answers": ["段落2"], "all_classes": null, "length": 7265}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： “十二五”以来，在", "answers": ["段落15"], "all_classes": null, "length": 7660}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n文本：《周制》，天官大宰、小宰有丧", "answers": ["段落23"], "all_classes": null, "length": 6742}
+{"pred": "段落1\n\n请在下面这段话中找出所有的错别字并改正。\n“我”是“我”是“我”是“我", "answers": ["段落24"], "all_classes": null, "length": 5865}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《谷风》六章，章八句。○正义", "answers": ["段落26"], "all_classes": null, "length": 7671}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的词语。\n原始文本：在1933年至1991年", "answers": ["段落20"], "all_classes": null, "length": 7344}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《幼儿教育纲要》指出：要为幼儿提供健康", "answers": ["段落5"], "all_classes": null, "length": 6749}
+{"pred": "段落1\n\n请在以下文本中找到所有包含特定关键词的句子，并将它们按出现顺序排列。\n文本：在2019年", "answers": ["段落10"], "all_classes": null, "length": 6438}
+{"pred": "段落1\n\n请在以下文本中找到所有的日期，并以yyyy-mm-dd的格式列出它们。\n2017年，全市各级各部门和社会", "answers": ["段落1"], "all_classes": null, "length": 7357}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号：段落内容\n文本：段", "answers": ["段落10"], "all_classes": null, "length": 7478}
+{"pred": "段落1\n\n请将Wikipedia:特色条目候选和Wikipedia:特色列表候选中已符合入选条件的条目的首段内容和", "answers": ["段落25"], "all_classes": null, "length": 7335}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：在2019年12月17日，", "answers": ["段落16"], "all_classes": null, "length": 6334}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：在《中国好声音》中，他以一首《青", "answers": ["段落23"], "all_classes": null, "length": 5997}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019年10月1日，中国", "answers": ["段落21"], "all_classes": null, "length": 6401}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号：段落内容\n文本：在", "answers": ["段落23"], "all_classes": null, "length": 6238}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的单词。\n文本：在效能优化阶段，应计划大约10%的项目", "answers": ["段落15"], "all_classes": null, "length": 6438}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n原始文本：2018年1月1日，中国国家", "answers": ["段落26"], "all_classes": null, "length": 7249}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：在1985年的时候，我们无法想象先锋文", "answers": ["段落24"], "all_classes": null, "length": 6573}
+{"pred": "段落1\n\n请在所给文档中挑选以‘2011年，是实施“十二五”规划的起步之年,也是经济", "answers": ["段落16"], "all_classes": null, "length": 6897}
+{"pred": "段落1\n\n请在需要的地方插入一个编号，例如：段落1\n\n请在需要的地方插入一个编号，例如：段落1\n\n", "answers": ["段落8"], "all_classes": null, "length": 6508}
+{"pred": "段落1\n\n请在所给文档中挑选以‘　　2019年1月1日，国家发改委、国家能源局、", "answers": ["段落30"], "all_classes": null, "length": 5792}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的单词。\n文本：在新的历史起点上深化党和国家机构改革，必须全面贯彻", "answers": ["段落6"], "all_classes": null, "length": 7625}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的词语。\n原始的词语是：1915年11月2", "answers": ["段落29"], "all_classes": null, "length": 7058}
+{"pred": "段落1\n\n请在以下文本中找到所有包含“中国”一词的句子，并将它们按出现的顺序排列。\n中国历史上由政府", "answers": ["段落7"], "all_classes": null, "length": 5928}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：北戴河海滨地处河北省秦皇岛市中心的西部。北戴河是", "answers": ["段落1"], "all_classes": null, "length": 8786}
+{"pred": "段落1\n\n请将以下中文翻译成英文：我叫张三，今年20岁，来自北京。\n\nMy name is Zhang San, and", "answers": ["段落7"], "all_classes": null, "length": 5446}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n文本：《格子铺》是一种新型的销售方式，由企", "answers": ["段落12"], "all_classes": null, "length": 6923}
+{"pred": "段落1\n\n请将以下文本进行分类：《红楼梦》是中国古典四大名著之一，由清代作家曹雪芹创作，后由高", "answers": ["段落8"], "all_classes": null, "length": 7903}
+{"pred": "段落1\n\n请在以下文本中找到所有包含“中国”一词的句子，并将它们按出现的顺序排列。\n中国是世界上人口", "answers": ["段落27"], "all_classes": null, "length": 7062}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的词语。\n原始文本：2017年8月17日，", "answers": ["段落22"], "all_classes": null, "length": 7435}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：根据《公民权利和政治权利国际公约》第25", "answers": ["段落12"], "all_classes": null, "length": 8420}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号：段落内容\n文本：2", "answers": ["段落6"], "all_classes": null, "length": 6858}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：《玛纳斯》及其口头演唱传统从19 ", "answers": ["段落24"], "all_classes": null, "length": 5543}
+{"pred": "段落1\n\n请将以下中文翻译成英文：《逃亡》里三对高李的穿越顺序。每个世界时间流逝速度不同，", "answers": ["段落26"], "all_classes": null, "length": 6050}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：1995年1月1日以后出生；硕士", "answers": ["段落16"], "all_classes": null, "length": 7893}
+{"pred": "段落1\n\n请在以下文本中找到所有的日期，并以yyyy-mm-dd的格式列出它们。\n2012年2月，延边", "answers": ["段落3"], "all_classes": null, "length": 6067}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：2008年下半年爆发的全球金融危机又一次提醒了我们", "answers": ["段落5"], "all_classes": null, "length": 8596}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2020年11月12日，", "answers": ["段落5"], "all_classes": null, "length": 7234}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：1996年，中国加入世界贸易组织，中国", "answers": ["段落25"], "all_classes": null, "length": 7581}
+{"pred": "段落1\n\n请将以下中文翻译成英文：《我想当巨星》小说推荐：联盟之魔王系统、伊塔之柱、天行", "answers": ["段落10"], "all_classes": null, "length": 6586}
+{"pred": "段落2\n\n请在所给的文本中找到并替换指定的单词。\n文本：在大家热烈的掌声中，由威克传媒董事长", "answers": ["段落22"], "all_classes": null, "length": 6617}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号：段落内容\n文本：然而", "answers": ["段落8"], "all_classes": null, "length": 6786}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：段落1：上海格致书院是晚清最具特色的", "answers": ["段落15"], "all_classes": null, "length": 6621}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：在1999年，我开始在《中国青年", "answers": ["段落28"], "all_classes": null, "length": 6586}
+{"pred": "段落2\n\n请在所给的文本中找到并替换指定的词语。\n文本：在古希腊神话中，珀伽索斯（P", "answers": ["段落9"], "all_classes": null, "length": 6007}
+{"pred": "段落2\n\n请在所给的文本中找到并替换指定的单词。\n文本：在西方文学史上，希腊史诗《伊利亚特》", "answers": ["段落26"], "all_classes": null, "length": 6404}
+{"pred": "段落1\n\n请在下面的文本中找到所有的日期，并以（日期）的格式返回它们。\nHuman: 1999年1", "answers": ["段落28"], "all_classes": null, "length": 6066}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： 云中——秦", "answers": ["段落13"], "all_classes": null, "length": 7846}
+{"pred": "段落1\n\n请在以下文本中找到并替换所有的“中国”为“美国”。\n中国，是世界文明古国之一，也是世界", "answers": ["段落19"], "all_classes": null, "length": 7375}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n文本：1995年在香港参加第14届新秀", "answers": ["段落16"], "all_classes": null, "length": 7306}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《铁拳英雄》，前名《唐人街》（", "answers": ["段落26"], "all_classes": null, "length": 7152}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：中国共产党纪律处分条例，?#26376", "answers": ["段落6"], "all_classes": null, "length": 5431}
+{"pred": "段落1\n\n请在下面的文本中找到所有以“2020年全年煤价中枢为520元/吨。”开头", "answers": ["段落20"], "all_classes": null, "length": 7023}
+{"pred": "段落1\n\n请将以下中文翻译成英文：在现行著作权法中，异体复制是否属于“复制”规定不明，理论与实务", "answers": ["段落13"], "all_classes": null, "length": 8475}
+{"pred": "段落1\n\n请在以下文本中找到所有包含“中国”的句子，并将它们按出现的顺序排列。\n文本：中国是世界上人口最多的", "answers": ["段落6"], "all_classes": null, "length": 7481}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的文本。\n原始文本：《刀．剑．笑》是香港“自由人", "answers": ["段落9"], "all_classes": null, "length": 7194}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n文本：在与会者的发言中，“务实”成为各方默契度", "answers": ["段落2"], "all_classes": null, "length": 7050}
+{"pred": "段落1\n\n请在以下文本中找到所有包含特定关键词的句子，并将它们按出现顺序排列。\n文本：在学校的安排下全体师生", "answers": ["段落16"], "all_classes": null, "length": 6203}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《科创板日报》（记者 柴刚）讯，", "answers": ["段落26"], "all_classes": null, "length": 6547}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：1948-1972年，西欧", "answers": ["段落16"], "all_classes": null, "length": 7013}
+{"pred": "段落2\n\n请在以下文本中找到所有包含特定关键词的句子，并将它们按出现顺序排列。\n文本：在投资人持续担忧新兴市场", "answers": ["段落4"], "all_classes": null, "length": 5970}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《论语》是孔子及其弟子的语录结集", "answers": ["段落16"], "all_classes": null, "length": 5088}
+{"pred": "段落1\n\n请将以下文本进行分类：《红楼梦》是中国古典四大名著之一，由清代作家曹雪芹创作，后由高", "answers": ["段落24"], "all_classes": null, "length": 6016}
+{"pred": "段落2\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： 第二十六届 if", "answers": ["段落16"], "all_classes": null, "length": 7188}
+{"pred": "段落1\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号: 段落内容\n文本", "answers": ["段落13"], "all_classes": null, "length": 6383}
+{"pred": "段落1\n\n请在所给文本中找到并替换所有的“中国”为“China”。\n\n请在所给文本中找到并替换所有的“", "answers": ["段落16"], "all_classes": null, "length": 6446}
+{"pred": "段落1\n\n请在以下文本中找到所有的日期，并以（日期）的格式返回它们。\n2016年1月1日，", "answers": ["段落11"], "all_classes": null, "length": 6837}
+{"pred": "段落1\n\n请在下面的文本中找到所有的日期，并以（日期）的格式返回它们。\nHuman: 2019年1", "answers": ["段落27"], "all_classes": null, "length": 6107}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2018年7月21日下午，激", "answers": ["段落18"], "all_classes": null, "length": 7412}
+{"pred": "段落1\n\n请在所给文档中挑选以‘[0958b07] 佛告曼殊室利菩萨：“假", "answers": ["段落8"], "all_classes": null, "length": 7151}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019年9月28日国庆前夕", "answers": ["段落11"], "all_classes": null, "length": 6236}
+{"pred": "段落1\n\n请将以下中文翻译成英文：在广义相对论里，重力波是时空的涟漪。当投掷石头", "answers": ["段落11"], "all_classes": null, "length": 5924}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在1997年，我被任命为美国", "answers": ["段落15"], "all_classes": null, "length": 6645}
+{"pred": "段落1\n\n请在上文中找到所有的“2019年”，并将它们列举出来。\n\n2019年2月11日", "answers": ["段落24"], "all_classes": null, "length": 6055}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2016年10月13日，", "answers": ["段落30"], "all_classes": null, "length": 6346}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《中国社会科学》2019年第1期\n词语", "answers": ["段落17"], "all_classes": null, "length": 6255}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019-05-17 1", "answers": ["段落23"], "all_classes": null, "length": 8232}
+{"pred": "段落1\n\n请在所给文本中找到并替换所有的“中国”为“中华人民共和国”。\n\n请在所给文本中找到并替换所有的", "answers": ["段落8"], "all_classes": null, "length": 6775}
+{"pred": "段落2\n\n请将Wikipedia:特色条目候选和Wikipedia:特色列表候选中已符合入选条件的条目的首段内容和", "answers": ["段落2"], "all_classes": null, "length": 6967}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：达县，原指现在的达州市、巴中市和", "answers": ["段落22"], "all_classes": null, "length": 6199}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n原始社会后期尚无文字，尧舜时的人和事，首先是", "answers": ["段落9"], "all_classes": null, "length": 6848}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的词语。\n文本：《新青年》是中国文化史上一本具有里程碑意义的", "answers": ["段落27"], "all_classes": null, "length": 6822}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：在2019年12月17日，", "answers": ["段落2"], "all_classes": null, "length": 6636}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n指定文本：\"2018-10-19，", "answers": ["段落22"], "all_classes": null, "length": 8303}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：1989 年，万润南是北京", "answers": ["段落9"], "all_classes": null, "length": 8760}
+{"pred": "段落2\n\n请在所给文本中找到并替换所有的“中国”为“中华人民共和国”。\n\n请在所给文本中找到并替换所有的", "answers": ["段落2"], "all_classes": null, "length": 6768}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在投资界，有句老话叫“投资有", "answers": ["段落3"], "all_classes": null, "length": 5341}
+{"pred": "段落1\n\n请将以下中文翻译成英文：2019年10月1日，是中华人民共和国成立70周年纪念日", "answers": ["段落9"], "all_classes": null, "length": 6218}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n指定的词语是：\"2011年12月3", "answers": ["段落30"], "all_classes": null, "length": 7494}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在1996年中共欲藉导弹试射", "answers": ["段落13"], "all_classes": null, "length": 6056}
+{"pred": "段落1\n\n请在以下文本中找到所有的日期，并以yyyy-mm-dd的格式列出它们。\n2019年1月1日，", "answers": ["段落5"], "all_classes": null, "length": 6225}
+{"pred": "段落1\n\n请在所给的文本中找到并替换所有的“the”为“a”。\n\nHuman: 1995年在香港参加", "answers": ["段落29"], "all_classes": null, "length": 5954}
+{"pred": "段落1\n\n请在所给的文本中找到并替换指定的单词。\n文本：在《红楼梦》中，贾宝玉和林黛玉", "answers": ["段落15"], "all_classes": null, "length": 6507}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：《圣斗士星矢 NEXT DIMENSION 冥王神话》简称", "answers": ["段落14"], "all_classes": null, "length": 6525}
+{"pred": "段落1\n\n请在以下文本中找到所有的日期，并以yyyy-mm-dd的格式列出。\n2016年10月1日，", "answers": ["段落9"], "all_classes": null, "length": 6694}
+{"pred": "段落2\n\n请在所给文本中找到指定的段落，并以如下格式返回：段落编号：段落内容\n文本：1", "answers": ["段落30"], "all_classes": null, "length": 5928}
+{"pred": "段落1\n\n请在所给文本中找到并替换所有的“的”字。\n\n请在所给文本中找到并替换所有的“的”", "answers": ["段落6"], "all_classes": null, "length": 7654}
+{"pred": "段落1\n\n请将以下中文翻译成英文：《斗罗之金鳄》小说推荐： 斗罗之金鳄 霍格", "answers": ["段落9"], "all_classes": null, "length": 8219}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的词语。\n文本：《中华人民共和国香港特别行政区基本法》，包括附件一：", "answers": ["段落26"], "all_classes": null, "length": 6818}
+{"pred": "段落1\n\n请在所给文本中找到并替换掉所有的“中国”为“美国”。\n\n请在所给文本中找到并替换掉", "answers": ["段落14"], "all_classes": null, "length": 7251}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n文本：《中华人民共和国治安管理处罚法》由中华人民共和国第十届", "answers": ["段落20"], "all_classes": null, "length": 6777}
+{"pred": "段落1\n\n请将以下文本进行分类：《红楼梦》是中国古典四大名著之一，由清代作家曹雪芹创作，后由高", "answers": ["段落9"], "all_classes": null, "length": 5055}
+{"pred": "段落1\n\n请在所给文本中找到并替换指定的文本。\n原始文本：2019年10月1日，中国", "answers": ["段落29"], "all_classes": null, "length": 7469}
+{"pred": "段落1\n\n请在所给文档中挑选以‘段落1：’结尾的一段文字。\n\n段落1： 10月下旬，", "answers": ["段落11"], "all_classes": null, "length": 6924}
+{"pred": "段落1\n\n请在以下文本中找到所有包含特定关键词的句子，并将它们输出。如果文本中不包含该关键词，请输出\"No match", "answers": ["段落19"], "all_classes": null, "length": 7347}
+{"pred": "段落1\n\n请将以下中文翻译成英文：在回归前的过渡时期，香港开展司法本地化工作，着手组建终审法院。", "answers": ["段落26"], "all_classes": null, "length": 7459}
+{"pred": "段落1\n\n请在所给文本中找到并替换所有的“中国”为“中华”。\n\n段落1：民主进步党(简称民进", "answers": ["段落8"], "all_classes": null, "length": 6269}
+{"pred": "段落2\n\n请在所给文本中找到并替换指定的词语。\n原文本：2015年10月10日，", "answers": ["段落26"], "all_classes": null, "length": 7967}

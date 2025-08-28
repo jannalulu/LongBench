@@ -1,0 +1,2 @@
+Model	Overall	Easy	Hard	Short	Medium	Long
+Qwen2.5-1.5B	4.2	3.6	4.6	4.5	3.9	0
